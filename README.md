@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**MohamedMarawany/MohamedMarawany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hi, I'm Mohamed Marawany  
 
 🎯 **AI | Machine Learning | Data Science Enthusiast**  
@@ -58,9 +41,8 @@ Passionate about building intelligent systems that merge **computer vision, NLP,
 ---
 
 ## 🌐 Connect with Me  
-📧 Email: [your.email@example.com]  
-💼 LinkedIn: [linkedin.com/in/mohamedmarawany](https://linkedin.com/in/mohamedmarawany)  
-🐦 Twitter: [twitter.com/yourhandle](#)  
+📧 Email: [ma.marawany2001@gmail.com]  
+💼 LinkedIn: [linkedin.com/in/mohamedmarawany]([https://linkedin.com/in/mohamedmarawany](https://www.linkedin.com/in/marawany11/))  
 
 ---
 ✨ *“Turning data into intelligence, and intelligence into action.”*  
