@@ -42,7 +42,7 @@ Passionate about building intelligent systems that merge **computer vision, NLP,
 
 ## 🌐 Connect with Me  
 📧 Email: [ma.marawany2001@gmail.com]  
-💼 LinkedIn: [linkedin.com/in/mohamedmarawany]([https://linkedin.com/in/mohamedmarawany](https://www.linkedin.com/in/marawany11/))  
+💼 LinkedIn: ([https://linkedin.com/in/mohamedmarawany](https://www.linkedin.com/in/marawany11/))  
 
 ---
 ✨ *“Turning data into intelligence, and intelligence into action.”*  
